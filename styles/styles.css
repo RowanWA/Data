@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-left {
+    justify-content: left;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.favourite-img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.favourite-card {
+    padding: 5px;
+}
+
+#generator-div {
+    min-height: 600px;
+}
+
+#dog-image {
+    height: 300px;
+}
